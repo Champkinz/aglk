@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aglk/static/css/main.c7b7a933.chunk.css",
-    "main.js": "/aglk/static/js/main.965543d7.chunk.js",
-    "main.js.map": "/aglk/static/js/main.965543d7.chunk.js.map",
+    "main.js": "/aglk/static/js/main.c4dcd80c.chunk.js",
+    "main.js.map": "/aglk/static/js/main.c4dcd80c.chunk.js.map",
     "runtime~main.js": "/aglk/static/js/runtime~main.26dc4227.js",
     "runtime~main.js.map": "/aglk/static/js/runtime~main.26dc4227.js.map",
     "static/css/2.7c2c7a7e.chunk.css": "/aglk/static/css/2.7c2c7a7e.chunk.css",
     "static/js/2.ea0ae1bd.chunk.js": "/aglk/static/js/2.ea0ae1bd.chunk.js",
     "static/js/2.ea0ae1bd.chunk.js.map": "/aglk/static/js/2.ea0ae1bd.chunk.js.map",
     "index.html": "/aglk/index.html",
-    "precache-manifest.8a7059a7de43b542c587a91d0d0fe376.js": "/aglk/precache-manifest.8a7059a7de43b542c587a91d0d0fe376.js",
+    "precache-manifest.341569b66ae41c6a3abdff64d659d5ec.js": "/aglk/precache-manifest.341569b66ae41c6a3abdff64d659d5ec.js",
     "service-worker.js": "/aglk/service-worker.js",
     "static/css/2.7c2c7a7e.chunk.css.map": "/aglk/static/css/2.7c2c7a7e.chunk.css.map",
     "static/css/main.c7b7a933.chunk.css.map": "/aglk/static/css/main.c7b7a933.chunk.css.map",
