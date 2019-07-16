@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3e7d4cecc0432079fc244efee8c1b76",
+    "revision": "5b9ac62ebf192dd55ede2c1c76f035b7",
     "url": "/aglk/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aglk/static/css/2.7c2c7a7e.chunk.css"
   },
   {
-    "revision": "0e8a5be2d479bbc403f6",
+    "revision": "1e2e14e32ebd822dc3b1",
     "url": "/aglk/static/css/main.c7b7a933.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aglk/static/js/2.ea0ae1bd.chunk.js"
   },
   {
-    "revision": "0e8a5be2d479bbc403f6",
-    "url": "/aglk/static/js/main.e399e26c.chunk.js"
+    "revision": "1e2e14e32ebd822dc3b1",
+    "url": "/aglk/static/js/main.ba59e23b.chunk.js"
   },
   {
     "revision": "f6447f10981feae87f1d",
