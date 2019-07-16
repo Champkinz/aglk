@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "166.62.6.39/static/css/main.c7b7a933.chunk.css",
-    "main.js": "166.62.6.39/static/js/main.3cfe3fbd.chunk.js",
-    "main.js.map": "166.62.6.39/static/js/main.3cfe3fbd.chunk.js.map",
-    "runtime~main.js": "166.62.6.39/static/js/runtime~main.10be4251.js",
-    "runtime~main.js.map": "166.62.6.39/static/js/runtime~main.10be4251.js.map",
-    "static/css/2.7c2c7a7e.chunk.css": "166.62.6.39/static/css/2.7c2c7a7e.chunk.css",
-    "static/js/2.14cb864b.chunk.js": "166.62.6.39/static/js/2.14cb864b.chunk.js",
-    "static/js/2.14cb864b.chunk.js.map": "166.62.6.39/static/js/2.14cb864b.chunk.js.map",
-    "index.html": "166.62.6.39/index.html",
-    "precache-manifest.0a62cd98dff8f8a44e26fb53b0463901.js": "166.62.6.39/precache-manifest.0a62cd98dff8f8a44e26fb53b0463901.js",
-    "service-worker.js": "166.62.6.39/service-worker.js",
-    "static/css/2.7c2c7a7e.chunk.css.map": "166.62.6.39/static/css/2.7c2c7a7e.chunk.css.map",
-    "static/css/main.c7b7a933.chunk.css.map": "166.62.6.39/static/css/main.c7b7a933.chunk.css.map",
-    "static/media/logo.svg": "166.62.6.39/static/media/logo.5d5d9eef.svg"
+    "main.css": "/static/css/main.c7b7a933.chunk.css",
+    "main.js": "/static/js/main.a243978b.chunk.js",
+    "main.js.map": "/static/js/main.a243978b.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.7c2c7a7e.chunk.css": "/static/css/2.7c2c7a7e.chunk.css",
+    "static/js/2.d565b24b.chunk.js": "/static/js/2.d565b24b.chunk.js",
+    "static/js/2.d565b24b.chunk.js.map": "/static/js/2.d565b24b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8a8334b14aebc969866641b7ab61c0fa.js": "/precache-manifest.8a8334b14aebc969866641b7ab61c0fa.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.7c2c7a7e.chunk.css.map": "/static/css/2.7c2c7a7e.chunk.css.map",
+    "static/css/main.c7b7a933.chunk.css.map": "/static/css/main.c7b7a933.chunk.css.map",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
   }
 }
