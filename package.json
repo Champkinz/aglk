@@ -2,19 +2,21 @@
   "name": "assignmentguidelk",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://champkinz.github.io/assignmentguidelktest",
+  "homepage": "http://assignmentguide.lk/",
   "dependencies": {
     "antd": "^3.20.2",
     "gh-pages": "^2.0.1",
+    "nodemailer-react": "^0.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
     "react-scripts": "3.0.1",
+    "react-typist": "^2.0.5",
     "typescript": "^3.5.3"
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "react-scripts build",
+    "build": "react-scripts build && cp build/index.html build/404.html",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "yarn run build",

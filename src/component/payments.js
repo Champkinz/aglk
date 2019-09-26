@@ -1,13 +1,20 @@
 import React, { Component } from 'react'
 import { Typography, Layout, Row, Col, Card, Icon } from 'antd';
 import { ScreenWidth } from '../helpers/window-dimensions';
+import UIConfigurations from '../helpers/config';
 
 class payments extends Component {
 
     render() {
+        const { Title, Paragraph, Text } = Typography;
+        const just_black = UIConfigurations.global.colors.darker
+        const just_white = UIConfigurations.global.colors.white
         const { Meta } = Card;
         return (
-            <Layout style={{ backgroundColor: '#FFF', padding: 25 }}>
+            <Layout style={{ backgroundColor: just_black, padding: 25,height:'80vh' }}>
+                 <Row type="flex" justify="center">
+                    <Title style={{ color: just_white }} level={1}>Payments</Title>
+                </Row>
                 <Row type={'flex'} justify={'space-between'}>
                     <Card
                         hoverable
